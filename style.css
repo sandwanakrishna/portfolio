@@ -176,31 +176,6 @@
     box-shadow: 0 0 10px #6930aa;
   }
   
-/*.hero-img{
-    width: 400px;
-    height: 400px;
-    background-color: none;
-    position:relative;
-    border-radius: 50%;
-    display: flex;
-    justify-content: center;
-    overflow: hidden;
-    box-shadow: 0 0 10px #4eddfd;
-    transition: 0.5s;
-  }
-  
-  .hero-img:hover{
-    box-shadow: 0 0 25px #4acfee;
-  }
-  */
-  .hero-img img{
-    position: absolute;
-    width: 85%;
-    mix-blend-mode: lighten;
-    align-items: center;
-    box-shadow: 0 0 10px #6930aa;
-    border-radius: 50%;
-  }
   
   .info-sec{
     display: flex;
